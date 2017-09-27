@@ -1,0 +1,9 @@
+div{
+    height: 1600px;
+    width: 6000px;
+    background-color: gold;
+    background-image: url("CSS3-VECTOR-LOGO-720x340.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
