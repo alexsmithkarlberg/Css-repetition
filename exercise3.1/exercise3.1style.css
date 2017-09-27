@@ -1,0 +1,14 @@
+nav ul {
+    list-style-type: None;
+    text-decoration: None;
+    float: left;
+}
+nav li {
+    border:1px;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    border-radius: 3px;
+    float: left;
+    padding: 4px;
+    margin-right: 7px;
+}
