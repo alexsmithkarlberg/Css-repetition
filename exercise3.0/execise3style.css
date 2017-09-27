@@ -1,0 +1,6 @@
+article p:first-child:first-line {
+    color: lightskyblue;
+}
+article:before{
+    content: url("../img/Birthday_cake.jpg");
+}

@@ -1,0 +1,37 @@
+#divid{
+    font-size: 25px;
+}
+.pclass1{
+    font-size: 30px;
+}
+a[href^="https"]{
+    color: red;
+}
+a[href*="bredband"]{
+    color: black;
+}
+a[href*="csn"]{
+    color: lightskyblue;
+}
+a[href$="html"]{
+    color: yellow;
+}
+h1{
+    background-color: gray;
+}
+body p{
+    background-color: red;
+}
+body div>p{
+    background-color: green;
+}
+body div ~ p{
+    background-color: yellow;
+}
+body div + p{
+    background-color: deeppink;
+}
+ul{
+    list-style-type: lower-alpha;
+    text-decoration: none;
+}
